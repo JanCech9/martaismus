@@ -1,5 +1,3 @@
-
-
 var fullImgBox = document.getElementById("fullImgBox");
 var fullImg = document.getElementById("fullImg")
 
